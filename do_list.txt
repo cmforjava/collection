@@ -1,0 +1,30 @@
+change the directory of system path. Such as D:/software
+
+chrome
+
+install nvm => npm => node
+
+install ts serve
+
+
+
+download baidupan
+
+everything
+window on top 
+officeBox
+
+hbuilder
+webstorm
+
+qqpinyin
+
+
+
+D: software
+
+E: media
+
+F: download
+
+G: workspace
